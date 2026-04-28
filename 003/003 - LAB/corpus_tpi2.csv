@@ -1,0 +1,57 @@
+id,fecha,medio,autor,titulo,texto,grupo_comparacion
+c001,2026-03-11,Diario Horizonte,Lucía Ferreyra,Aulas aumentadas: IA como tutor cotidiano en secundaria,"En tres escuelas técnicas del conurbano, un piloto de tutorías con IA redujo en 18% la repitencia en matemática según datos del Ministerio provincial. El programa no reemplaza docentes: se usa en bloques de práctica, con rúbricas diseñadas por equipos pedagógicos y revisión humana de respuestas.
+
+Las directoras reportan que el mayor impacto no fue la velocidad de corrección sino la personalización de consignas. Estudiantes con trayectorias interrumpidas pudieron retomar contenidos con secuencias adaptativas y explicaciones en lenguaje llano.
+
+Sindicalistas consultados piden que la expansión venga con formación paga, licencias de software auditables y protocolos de protección de datos. Aun así, reconocen que el piloto mostró mejoras en asistencia y continuidad.
+
+Especialistas en evaluación advierten que el éxito depende de gobernanza: objetivos claros, indicadores públicos y control del sesgo en recomendaciones. Sin esa capa institucional, la promesa tecnológica puede degradarse en automatización opaca.",innovacion_eficiencia
+c002,2026-03-18,Diario Horizonte,Tomás Ledesma,Municipios incorporan IA para orientar búsquedas laborales,"Cinco oficinas de empleo municipal implementaron asistentes conversacionales para orientar a jóvenes en la redacción de CV, simulación de entrevistas y mapeo de cursos cortos. El sistema cruza perfiles con vacantes públicas y privadas en tiempo real.
+
+Funcionarios sostienen que la herramienta permitió escalar atención sin ampliar planteles: en dos meses se triplicaron las consultas respondidas y bajaron los tiempos de espera. En barrios periféricos, promotores digitales acompañan el uso en centros comunitarios para evitar brechas de acceso.
+
+Empresarios pyme valoran la estandarización de competencias y la trazabilidad de recomendaciones. Sin embargo, organizaciones sociales señalan que la calidad del resultado depende de la alfabetización digital de base y del tipo de dispositivo disponible.
+
+El desafío de la próxima etapa será integrar métricas de inserción efectiva y no solo de interacción con la plataforma, para evitar que la política mida actividad en lugar de resultados laborales.",innovacion_eficiencia
+c003,2026-03-24,Diario Horizonte,Irene Quiroga,Hospitales prueban triage asistido por modelos clínicos,"Dos hospitales metropolitanos iniciaron pruebas controladas de triage asistido por modelos clínicos que priorizan casos respiratorios y cardiovasculares. El protocolo exige doble validación: sugerencia algorítmica y confirmación médica antes de asignar prioridad final.
+
+Los equipos de guardia informaron menor congestión en franjas críticas y mejor derivación entre servicios. La dirección hospitalaria afirma que la mejora proviene de combinar señales clínicas, historial y disponibilidad de camas en un tablero unificado.
+
+Comités de bioética remarcan que la implementación debe contemplar explicabilidad y derecho a revisión, especialmente cuando hay incertidumbre diagnóstica. También recomiendan auditorías externas periódicas para monitorear sesgos por edad, género o territorio.
+
+La evidencia preliminar es promisoria pero acotada: aún falta seguimiento longitudinal para estimar impacto en mortalidad evitable y satisfacción de pacientes.",innovacion_eficiencia
+c004,2026-04-02,Diario Horizonte,Marina Ríos,Productividad pyme: asistentes de IA y reorganización del trabajo,"Un relevamiento de cámaras industriales mostró que 42% de pymes adoptó asistentes de IA para tareas administrativas, compras y atención posventa. Donde hubo rediseño de procesos, la productividad mejoró; donde solo se sumó software, el impacto fue marginal.
+
+Consultoras de gestión destacan que la clave está en mapear cuellos de botella y redefinir roles. En varias empresas, operarios pasaron de carga manual a supervisión de flujos, con menor error y más tiempo para tareas de valor agregado.
+
+Representantes sindicales reclaman acuerdos de transición: capacitación certificada, evaluación de riesgos psicosociales y participación en decisiones sobre automatización. También exigen transparencia sobre métricas de desempeño usadas por plataformas.
+
+La discusión pública empieza a correrse de “IA sí o no” hacia “qué modelo de adopción” permite ganancias de eficiencia con protección de derechos laborales.",innovacion_eficiencia
+c005,2026-03-13,Revista Trama Pública,Paula Benítez,La escuela dataficada: cuando medir todo no mejora aprender,"La incorporación de analítica educativa en plataformas escolares promete detectar rezagos tempranos, pero múltiples investigaciones muestran que el rendimiento no se explica solo por trazas digitales. Factores socioeconómicos, condiciones habitacionales y disponibilidad de tiempo de estudio siguen siendo determinantes.
+
+Docentes entrevistados describen una presión creciente por “mostrar métricas” aunque los indicadores no siempre representan comprensión profunda. La lógica del dashboard puede favorecer decisiones rápidas y castigar procesos pedagógicos lentos pero sustantivos.
+
+Además, la opacidad de modelos comerciales limita la deliberación democrática sobre criterios de clasificación de estudiantes. Cuando no se conoce cómo pondera el sistema ciertas conductas, la autoridad pedagógica se desplaza hacia proveedores privados.
+
+La pregunta central no es cuántos datos produce la escuela, sino quién decide su uso, con qué controles y bajo qué principio de justicia educativa.",derechos_gobernanza
+c006,2026-03-21,Revista Trama Pública,Nicolás Varela,Automatización y empleo: el costo oculto de la transición,"Las políticas de adopción tecnológica suelen enfatizar productividad agregada, pero menos atención reciben las trayectorias de quienes quedan entre ocupaciones. En sectores de servicios, la automatización parcial fragmenta tareas y puede degradar salarios de entrada.
+
+Economistas laborales señalan que la reconversión no ocurre en vacío: requiere ingresos de transición, certificaciones reconocidas y coordinación territorial entre Estado, empresas y sindicatos. Sin esos puentes, la promesa de “nuevas oportunidades” se vuelve retórica.
+
+Trabajadores de call centers reportan que sistemas de asistencia algorítmica incrementaron control del tiempo y monitoreo continuo, con efectos en estrés y rotación. La mejora de indicadores de productividad convive con deterioro del clima laboral.
+
+Una agenda responsable debería medir no solo puestos creados, sino calidad del empleo, estabilidad contractual y distribución de ganancias derivadas de la automatización.",derechos_gobernanza
+c007,2026-03-29,Revista Trama Pública,Ana Solís,Salud digital y sesgos: por qué la auditoría no es opcional,"En salud, los modelos predictivos pueden amplificar desigualdades cuando entrenan con datos históricamente sesgados. Estudios regionales detectaron subdiagnóstico en poblaciones rurales y en mujeres jóvenes para ciertas patologías cardiovasculares.
+
+Especialistas en salud pública proponen auditorías ex ante y ex post, con publicación de métricas de desempeño desagregadas por grupo social. También plantean mecanismos de apelación clínica para decisiones automatizadas de alto impacto.
+
+La discusión no debería plantearse como freno a la innovación, sino como condición de legitimidad. Un sistema técnicamente preciso pero socialmente injusto compromete confianza institucional y resultados sanitarios.
+
+Sin marcos regulatorios claros, cada implementación queda librada a contratos privados, con baja capacidad estatal para exigir transparencia y corrección de sesgos.",derechos_gobernanza
+c008,2026-04-04,Revista Trama Pública,Julián Acosta,¿Quién gobierna los algoritmos públicos?,"La expansión de sistemas algorítmicos en políticas públicas abrió una disputa por capacidades estatales. Dependencias con presupuestos limitados tercerizan soluciones cerradas y luego enfrentan dificultades para auditar decisiones o migrar de proveedor.
+
+Juristas y especialistas en administración pública coinciden en tres mínimos: derecho a explicación, trazabilidad de datos y evaluación de impacto regulatorio antes del despliegue masivo. Sin esos instrumentos, la ciudadanía no puede cuestionar decisiones que afectan derechos.
+
+Experiencias internacionales muestran que las cláusulas de transparencia contractual, combinadas con repositorios de modelos y protocolos de evaluación, reducen riesgos de captura tecnológica.
+
+El debate de fondo es político: si la infraestructura digital del Estado se diseña con lógica de caja negra, la rendición de cuentas se vuelve excepcional en lugar de estructural.",derechos_gobernanza
