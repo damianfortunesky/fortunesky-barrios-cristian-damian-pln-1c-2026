@@ -1,0 +1,16 @@
+[
+  {
+    "titulo_o_fuente": "Clarin - Economia",
+    "texto": "El Banco Central anunció nuevas medidas para ordenar el mercado cambiario y reducir la inflación esperada del segundo semestre.",
+    "origen": "json"
+  },
+  {
+    "titulo_o_fuente": "Pagina12 - Sociedad",
+    "texto": "Organizaciones barriales reclamaron mayor inversión en infraestructura escolar y transporte público en el conurbano bonaerense.",
+    "origen": "json"
+  },
+  {
+    "titulo_o_fuente": "Reporte local",
+    "texto": "En la ciudad de Córdoba se realizó una mesa de trabajo entre universidades, pymes y autoridades para impulsar empleo joven."
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "estadisticas": {
+    "documentos": 3,
+    "tokens_totales": 58,
+    "vocabulario_unico": 44,
+    "oraciones_totales": 3
+  },
+  "entidades": {
+    "ORG": 1,
+    "LOC": 1
+  },
+  "verbos_principales": [
+    [
+      "anunciar",
+      1
+    ],
+    [
+      "ordenar",
+      1
+    ],
+    [
+      "reducir",
+      1
+    ],
+    [
+      "reclamar",
+      1
+    ],
+    [
+      "impulsar",
+      1
+    ]
+  ],
+  "palabras_clave": [
+    [
+      "banco",
+      1
+    ],
+    [
+      "central",
+      1
+    ],
+    [
+      "medida",
+      1
+    ],
+    [
+      "mercado",
+      1
+    ],
+    [
+      "cambiario",
+      1
+    ],
+    [
+      "inflación",
+      1
+    ],
+    [
+      "esperado",
+      1
+    ],
+    [
+      "semestre",
+      1
+    ],
+    [
+      "organizaciones",
+      1
+    ],
+    [
+      "barrial",
+      1
+    ],
+    [
+      "inversión",
+      1
+    ],
+    [
+      "infraestructura",
+      1
+    ],
+    [
+      "escolar",
+      1
+    ],
+    [
+      "transporte",
+      1
+    ],
+    [
+      "público",
+      1
+    ],
+    [
+      "conurbano",
+      1
+    ],
+    [
+      "bonaerense",
+      1
+    ],
+    [
+      "ciudad",
+      1
+    ],
+    [
+      "córdoba",
+      1
+    ],
+    [
+      "mesa",
+      1
+    ]
+  ]
+}

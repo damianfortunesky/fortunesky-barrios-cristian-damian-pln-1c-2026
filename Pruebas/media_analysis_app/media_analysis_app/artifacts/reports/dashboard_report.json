@@ -1,0 +1,150 @@
+{
+  "generated_at": "2026-04-27",
+  "summary": "Se analizaron 1 documentos.",
+  "top_terms": [
+    {
+      "term": "publicidad",
+      "count": 6
+    },
+    {
+      "term": "fuente",
+      "count": 3
+    },
+    {
+      "term": "hoy",
+      "count": 3
+    },
+    {
+      "term": "reuters",
+      "count": 2
+    },
+    {
+      "term": "real",
+      "count": 2
+    },
+    {
+      "term": "time",
+      "count": 2
+    },
+    {
+      "term": "usd",
+      "count": 2
+    },
+    {
+      "term": "millones",
+      "count": 2
+    },
+    {
+      "term": "argentinos",
+      "count": 2
+    },
+    {
+      "term": "medio",
+      "count": 2
+    },
+    {
+      "term": "qué",
+      "count": 2
+    },
+    {
+      "term": "logística",
+      "count": 2
+    },
+    {
+      "term": "entre",
+      "count": 2
+    },
+    {
+      "term": "binance",
+      "count": 1
+    },
+    {
+      "term": "camuzzi",
+      "count": 1
+    }
+  ],
+  "top_entities": [
+    {
+      "entity": "PUBLICIDAD",
+      "label": "ORG",
+      "count": 3
+    },
+    {
+      "entity": "Reuters",
+      "label": "ORG",
+      "count": 1
+    },
+    {
+      "entity": "Real Time Fuente: Reuters",
+      "label": "ORG",
+      "count": 1
+    },
+    {
+      "entity": "Real Time PUBLICIDAD",
+      "label": "ORG",
+      "count": 1
+    },
+    {
+      "entity": "Binance Camuzzi",
+      "label": "PER",
+      "count": 1
+    },
+    {
+      "entity": "Gobierno bajó",
+      "label": "LOC",
+      "count": 1
+    },
+    {
+      "entity": "AySA Menos",
+      "label": "LOC",
+      "count": 1
+    },
+    {
+      "entity": "Rural",
+      "label": "LOC",
+      "count": 1
+    },
+    {
+      "entity": "Irán Mercados",
+      "label": "LOC",
+      "count": 1
+    },
+    {
+      "entity": "PUBLICIDAD PUBLICIDAD Dólar",
+      "label": "ORG",
+      "count": 1
+    },
+    {
+      "entity": "qué cambió",
+      "label": "PER",
+      "count": 1
+    },
+    {
+      "entity": "Qué",
+      "label": "LOC",
+      "count": 1
+    },
+    {
+      "entity": "ANSES",
+      "label": "ORG",
+      "count": 1
+    }
+  ],
+  "timeline": [
+    {
+      "source": "infobae",
+      "date": "2026-04-27",
+      "docs": 1,
+      "avg_tokens": 258.0,
+      "avg_unique_lemmas": 130.0,
+      "avg_entities": 15.0
+    }
+  ],
+  "warnings": [
+    "No se encontró el modelo 'es_core_news_md'. Se usa 'es_core_news_sm' como fallback; si tampoco está, se usa un pipeline 'es' básico sin lemas robustos ni NER.",
+    "Limitación metodológica: frecuencias sin desambiguación semántica; homónimos pueden mezclar contextos.",
+    "Limitación metodológica: tópicos heurísticos por palabras clave; no reemplazan topic modeling supervisado/no supervisado.",
+    "Recomendación español: preferir `es_core_news_md`; usar `es_core_news_sm` como alternativa liviana para entornos limitados.",
+    "Fallback NLTK: si faltan recursos descargados, se usa stopwords mínima embebida y tokenización wordpunct."
+  ]
+}

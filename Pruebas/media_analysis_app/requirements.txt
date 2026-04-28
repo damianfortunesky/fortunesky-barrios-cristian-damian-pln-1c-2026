@@ -1,0 +1,14 @@
+beautifulsoup4
+matplotlib
+numpy
+pandas
+playwright
+python-dotenv
+requests
+seaborn
+spacy
+nltk
+trafilatura
+typer
+gradio
+wordcloud

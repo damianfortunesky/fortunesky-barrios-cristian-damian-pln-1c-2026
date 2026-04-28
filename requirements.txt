@@ -1,0 +1,33 @@
+# ============================================================
+# IFTS Nº 24 — Lab de Introducción al PLN, LLMs y Agentic AI
+# Dependencias del entorno de trabajo — Edición 2026
+# ============================================================
+
+# --- Jupyter ---
+jupyter
+jupyterlab
+ipywidgets
+watermark
+
+# --- Análisis de datos ---
+pandas
+numpy
+
+# --- Web scraping ---
+requests
+beautifulsoup4
+trafilatura
+scrapling[all]>=0.4.2
+playwright
+
+# --- PLN ---
+nltk
+spacy
+
+# --- Visualización ---
+matplotlib
+seaborn
+wordcloud
+
+# --- Interfaces ---
+gradio
